@@ -1,3 +1,3 @@
 This is for learning commands with Git bash.
-This is me from fit_branch.
+I am from fit_branch.
 
